@@ -42,6 +42,8 @@ public class StepDefinition23 extends BaseClass {
 	public void user_enters_login_button() {
 		
 		obj.clickLogin();
+
+		System.out.println("Hello");
 	   
 	}
 
